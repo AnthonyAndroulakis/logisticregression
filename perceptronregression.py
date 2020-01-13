@@ -15,7 +15,7 @@ with open(csv_file, 'r') as f:
 y = [float(i) for i in y]
 
 ##########################################################################################
-
+#perceptron algorithm to split data
 xcoeff = 1 #a
 ycoeff = 1 #b
 constant = -1 #c #ax+by+c=0
