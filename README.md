@@ -7,5 +7,6 @@ further explanations can be found in the code comments
 
 difference between perceptron (stepwise) and logistic (continuous): https://stats.stackexchange.com/questions/162257/whats-the-difference-between-logistic-regression-and-perceptron
 
+### the line in the graph below looks extra long because I misused numpy.linspace but didn't bother to fix it
 example output (x axis = # of words "buy" in email, y axis = # of mistakes in email) (if # "buy" + # mistakes > 4, then spam:
 ![example 4](https://github.com/AnthonyAndroulakis/perceptronregression/blob/master/spamham.png)
